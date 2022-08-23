@@ -29,7 +29,7 @@ How to make undergraduates or new graduates ready for advanced computer architec
 
 ## Digital Design
 
-https://inst.eecs.berkeley.edu/~eecs151)作为CPU设计的基础，这门偏向数字电路的课程十分适合培养基础，ASIC和FPGA的实验课也可以帮助培养自己的能力。
+[EECS151](https://inst.eecs.berkeley.edu/~eecs151) 作为CPU设计的基础，这门偏向数字电路的课程十分适合培养基础，ASIC和FPGA的实验课也可以帮助培养自己的能力。b站上有较好的中文翻译版本可以选用
 
 # Computer Architecture
 
