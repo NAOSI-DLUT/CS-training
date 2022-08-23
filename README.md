@@ -27,6 +27,10 @@ How to make undergraduates or new graduates ready for advanced computer architec
 
 最后，因为如果有高质量的中文公开课或者更好的实验素材，欢迎大家可以发PR给我们推荐一下。我们希望以上的每门课都有一门高质量的中文公开课+一门高质量的英文公开课+高质量的实验课。
 
+## Digital Design
+
+https://inst.eecs.berkeley.edu/~eecs151)作为CPU设计的基础，这门偏向数字电路的课程十分适合培养基础，ASIC和FPGA的实验课也可以帮助培养自己的能力。
+
 # Computer Architecture
 
 现在我们回到正题——计算机体系结构。根据我们的了解，目前很多（高级）体系结构课都不够深入，无法保证学生在完成课程之后就能进行相关研究。
