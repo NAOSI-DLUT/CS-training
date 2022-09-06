@@ -53,6 +53,8 @@ WIP...
 
 ## Papers
 
+在读任何的Paper之前，建议先阅读[How to read a paper](https://www.cs.princeton.edu/courses/archive/fall13/cos597E/papers/howtoread.pdf) 来了解阅读论文的基本方法
+
 ### 乱序执行
 
 [MIPS R10000](https://pages.cs.wisc.edu/~markhill/restricted/ieeemicro96_r10000.pdf)
