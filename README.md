@@ -16,7 +16,7 @@ How to make undergraduates or new graduates ready for advanced computer architec
 
 ## Operating System
 
-很幸运，我们找到了质量比较高的录制好的中文操作系统课程[南京大学 “操作系统：设计与实现” (蒋炎岩)](https://www.bilibili.com/video/BV1HN41197Ko)。
+很幸运，我们找到了质量比较高的录制好的中文操作系统课程[南京大学 “操作系统：设计与实现” (蒋炎岩)](https://www.bilibili.com/video/BV1HN41197Ko)，此课程基于经典的[CSAPP深入理解操作系统](http://csapp.cs.cmu.edu)，你可以在[蒋老师的主页](http://jyywiki.cn)上找到正在进行中的课程或参考已经完结的OS课程资料。
 课程实验，我们推荐做[MIT 6.828的实验](https://pdos.csail.mit.edu/6.828/2021/xv6.html)，这个实验让写一个Non-trivial的操作系统。
 
 ## Compiler
@@ -53,7 +53,8 @@ WIP...
 
 ## Papers
 
-在读任何的Paper之前，建议先阅读[How to read a paper](https://www.cs.princeton.edu/courses/archive/fall13/cos597E/papers/howtoread.pdf) 来了解阅读论文的基本方法
+在读任何的Paper之前，建议先阅读[How to read a paper](https://www.cs.princeton.edu/courses/archive/fall13/cos597E/papers/howtoread.pdf) 来了解阅读论文的基本方法。
+你也可以看[如何读论文（李沐）](https://www.bilibili.com/video/BV1H44y1t75x)对论文阅读方法有一个基础的方法
 
 ### 乱序执行
 
